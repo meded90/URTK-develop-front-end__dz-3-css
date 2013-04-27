@@ -8,4 +8,4 @@
 
   * [Валидатор](http://validator.w3.org/)
   * [Справочник по тегам](htmlbook.ru)
-  * [Призентация ](https://docs.google.com/presentation/d/1eBtEDxue-5cA2FYsaKmeM4BXNzpe1wlvuf3kIQjnGU0/edit?usp=sharing)
+  * [Призентация ](https://docs.google.com/presentation/d/1vXdMwHyCZwmyxQdx1OqrkIkM1pf57Zjc-Q1pmk24GkQ/edit?usp=sharing)
