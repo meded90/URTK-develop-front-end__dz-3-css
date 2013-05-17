@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+.btn.btn-primary.btn-large { }
+
+a[href="assets/bootstrap.zip"] {  }
+
+a[href$=".zip"] {   }
+
+a:nth-child(9) { }
+
+a:nth-last-child(29) {   }
+
+.container .btn.btn-primary.btn-large { }
+
+.container p .btn.btn-primary.btn-large { }
